@@ -1,0 +1,22 @@
+.container1 {
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
+.container2 {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 220px;
+    bottom: 115px;
+}
+
+.container3 {
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 440px;
+    bottom: 230px;
+}
