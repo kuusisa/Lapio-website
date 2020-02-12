@@ -1,22 +1,46 @@
 .container1 {
     background-color: red;
-    width: 200px;
+    width: 180px;
     height: 100px;
+    padding: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 15px;
+    border-color: green;
+    
+    
+    
 }
 .container2 {
     background-color: yellow;
-    width: 200px;
+    width: 180px;
     height: 100px;
+    padding: 50px;
     position: relative;
-    left: 220px;
-    bottom: 115px;
+    left: 340px;
+    bottom: 230px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 15px;
+    border-color: red;
 }
 
 .container3 {
     background-color: green;
-    width: 200px;
+    width: 180px;
     height: 100px;
+    padding: 50px;
     position: relative;
-    left: 440px;
-    bottom: 230px;
+    left: 680px;
+    bottom: 460px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 15px;
+    border-color: yellow;
+}
+p {
+    color: blue;
 }
